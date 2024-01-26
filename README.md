@@ -1,3 +1,10 @@
+*Don't forget to check out my printables.*
+https://www.printables.com/@GT_Reaper
+
+*Sv07/Sv07+ BTT smart filament sensor v2.0*
+https://www.printables.com/model/672137-btt-sfs-v20-for-sovol-sv07sv07
+
+
 # Sovol-Sv06-Sv07-leveling.
 A guide on how i have achieved great first layers on the Sv06+ and Sv07+. 
 
